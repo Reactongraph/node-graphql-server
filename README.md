@@ -5,14 +5,14 @@ Run development enviroment using yarn
 
 ```
 yarn install
-yarn run dev
+sudo yarn run dev
 ```
 
 or with npm
 
 ```
 npm i
-npm run dev
+sudo npm run dev
 ```
 
 after that the graphiql can be accessed at http://localhost:3000/graphql.
