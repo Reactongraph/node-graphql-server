@@ -56,6 +56,10 @@ Just go on [official postgresql website](https://www.postgresql.org/) & grab the
     $ cd node-graphql-server
     $ npm install
 
+#### or
+
+    $ yarn
+
 ### Configure app
 
 Edit `config.json` inside config folder with the url where you have setup:
@@ -66,20 +70,28 @@ Edit `config.json` inside config folder with the url where you have setup:
 
 ## Start & watch
 
-#### To run in development
+### To run in development
 
     $ sudo yarn dev
+
+#### or
+
+    $ sudo npm dev
 
 #### To run in production
 
     $ sudo yarn start
 
-## To Create Postgres Relations
+#### or
+
+    $ sudo npm start
+
+## Postgres Relations
 
 #### Postgres Model Creation
 
     $ sequelize model:create --name Relation_Name --attributes attribute_name:attribute_type
-      ex: sequelize model:create --name User --attributes username:string,password:string
+    ex: sequelize model:create --name User --attributes username:string,password:string
 
 #### Database migration
 
