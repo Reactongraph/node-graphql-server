@@ -78,7 +78,7 @@ Edit `config.json` inside config folder with the url where you have setup:
 
     $ sudo npm dev
 
-#### To run in production
+### To run in production
 
     $ sudo yarn start
 
