@@ -1,5 +1,9 @@
 # node-graphql-server
 
+node-graphql-server is a complete implementation of GraphQL with nodejs.It includes two runtime libraries, Apollo Server and Apollo Client, for building and querying your graph's API.
+
+node-graphql-server is the integration of GraphQL with nodejs and GraphQL is the specification that we are using to communicate between our graph API and client
+
 ## Requirements
 
 To run this project, you will only need Node.js, Postgres, Graphql installed on your environement.
