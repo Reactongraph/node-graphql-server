@@ -22,7 +22,7 @@
     "faker": "^4.1.0",
     "graphql": "^0.10.3",
     "morgan": "^1.9.1",
-    "validator": "^8.0.0",
+    "validator": "^13.7.0",
     "pg": "^7.8.0",
     "pg-hstore": "^2.3.2",
     "sequelize": "^4.42.0"
