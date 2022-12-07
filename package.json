@@ -17,7 +17,7 @@
   "dependencies": {
     "babel-polyfill": "^6.23.0",
     "babel-register": "^6.24.1",
-    "express": "^4.15.3",
+    "express": "^4.17.3",
     "express-graphql": "^0.6.6",
     "faker": "^4.1.0",
     "graphql": "^0.10.3",
